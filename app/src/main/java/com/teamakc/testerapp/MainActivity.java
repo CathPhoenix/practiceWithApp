@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
         SystemClock.elapsedRealtime();
     }
 }
+
 //ken has made some sort of comment - prob about my mom 
+
+//Cath has comments everywhere
+
