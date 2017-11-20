@@ -15,3 +15,4 @@ public class MainActivity extends AppCompatActivity {
         SystemClock.elapsedRealtime();
     }
 }
+//Cath has comments everywhere
